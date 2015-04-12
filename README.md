@@ -1,1 +1,1 @@
-# zeppelin-notes
+# Apache Zeppelin Notes
